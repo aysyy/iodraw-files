@@ -91,8 +91,8 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-52" value="点击对应公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="130" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="200" width="70" height="40" as="geometry" />
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-54" value="查看公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
