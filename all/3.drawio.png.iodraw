@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="增删改查系统公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="379" y="60" width="101" height="30" as="geometry" />
+          <mxGeometry x="430" y="110" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-6" value="发布系统公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="10" width="101" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="80" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-9" value="系统公告管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="90" width="70" height="40" as="geometry" />
+          <mxGeometry x="280" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-10" value="管理员与用户互动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="250" width="110" height="30" as="geometry" />
