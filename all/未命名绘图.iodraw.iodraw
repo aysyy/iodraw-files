@@ -40,6 +40,9 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-8" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-9" target="ONHr0ERSRu5yUqumEzbT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-9" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="40" width="70" height="40" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-11" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
