@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-4" value="单人聊天" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="280" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="增删改查系统公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="60" width="101" height="30" as="geometry" />
@@ -28,31 +28,10 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-10" value="群组聊天" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="500" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONHr0ERSRu5yUqumEzbT-11" target="ONHr0ERSRu5yUqumEzbT-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-11" value="系统公告管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="130" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ONHr0ERSRu5yUqumEzbT-2" target="ONHr0ERSRu5yUqumEzbT-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="180" as="sourcePoint" />
             <mxPoint x="130" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONHr0ERSRu5yUqumEzbT-52" target="ONHr0ERSRu5yUqumEzbT-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-52" value="点击对应公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="389" y="132.5" width="101" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-54" value="查看公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="130" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ONHr0ERSRu5yUqumEzbT-3" target="ONHr0ERSRu5yUqumEzbT-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="200" as="sourcePoint" />
-            <mxPoint x="280" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ONHr0ERSRu5yUqumEzbT-9" edge="1">
