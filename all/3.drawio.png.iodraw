@@ -16,7 +16,7 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="60" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-6" value="修改头像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-6" value="发布系统公告" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="10" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
