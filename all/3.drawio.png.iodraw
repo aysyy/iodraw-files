@@ -80,7 +80,7 @@
           <mxGeometry x="430" y="310" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-77" value="发文本消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="230" width="101" height="30" as="geometry" />
+          <mxGeometry x="430" y="220" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-78" value="增删改查用户信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="180" width="101" height="30" as="geometry" />
