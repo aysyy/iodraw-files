@@ -97,7 +97,7 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-66" value="发文本消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-67" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-67" value="发文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-68" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
