@@ -109,7 +109,7 @@
         <mxCell id="t-c-E_DhYsPo8meHnwhw-47" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t-c-E_DhYsPo8meHnwhw-48" value="POST请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-c-E_DhYsPo8meHnwhw-48" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="330" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t-c-E_DhYsPo8meHnwhw-49" value="POST请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
