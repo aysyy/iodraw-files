@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-2" target="ONHr0ERSRu5yUqumEzbT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-2" target="ONHr0ERSRu5yUqumEzbT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-2" target="ONHr0ERSRu5yUqumEzbT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-2" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-3" target="ONHr0ERSRu5yUqumEzbT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-3" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="70" height="40" as="geometry" />
