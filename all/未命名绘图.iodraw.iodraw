@@ -74,7 +74,7 @@
           <mxGeometry x="379" y="132.5" width="101" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-54" value="查看公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="70" height="40" as="geometry" />
+          <mxGeometry x="520" y="130" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-3" target="ONHr0ERSRu5yUqumEzbT-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
