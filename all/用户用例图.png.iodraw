@@ -14,7 +14,7 @@
           <mxGeometry x="270" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="379" y="70" width="101" height="30" as="geometry" />
+          <mxGeometry x="520" y="70" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-6" value="修改头像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" width="101" height="30" as="geometry" />
@@ -64,7 +64,7 @@
             <mxPoint x="280" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ONHr0ERSRu5yUqumEzbT-9" edge="1">
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="VrGoDvTvh73IpMBv811c-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="200" as="sourcePoint" />
             <mxPoint x="280" y="150" as="targetPoint" />
@@ -152,11 +152,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VrGoDvTvh73IpMBv811c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="VrGoDvTvh73IpMBv811c-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VrGoDvTvh73IpMBv811c-1" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
