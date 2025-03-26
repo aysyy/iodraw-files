@@ -46,11 +46,8 @@
         <mxCell id="518B6CsAz07IpfxrdvMU-16" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;系统公告&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="220" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="518B6CsAz07IpfxrdvMU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="518B6CsAz07IpfxrdvMU-17" target="518B6CsAz07IpfxrdvMU-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="360" y="155" width="20" height="120" as="geometry" />
+          <mxGeometry x="340" y="360" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
