@@ -154,6 +154,12 @@
         <mxCell id="VrGoDvTvh73IpMBv811c-7" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="-5" width="101" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="VrGoDvTvh73IpMBv811c-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VrGoDvTvh73IpMBv811c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
