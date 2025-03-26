@@ -25,10 +25,8 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-3" target="ONHr0ERSRu5yUqumEzbT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-3" target="ONHr0ERSRu5yUqumEzbT-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-3" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="70" height="40" as="geometry" />
