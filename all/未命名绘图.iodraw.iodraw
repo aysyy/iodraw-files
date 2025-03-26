@@ -13,15 +13,6 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-4" value="单人聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-6" target="ONHr0ERSRu5yUqumEzbT-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="70" height="40" as="geometry" />
         </mxCell>
@@ -36,9 +27,6 @@
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-11" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
