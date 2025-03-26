@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t-c-E_DhYsPo8meHnwhw-1" value="即时通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="290" height="50" as="geometry" />
+          <mxGeometry x="280" y="70" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t-c-E_DhYsPo8meHnwhw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="290" height="50" as="geometry" />
