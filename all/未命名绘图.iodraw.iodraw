@@ -10,7 +10,7 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-3" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-4" value="单人聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-8" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
