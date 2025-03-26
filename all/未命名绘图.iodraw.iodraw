@@ -34,12 +34,12 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-11" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ONHr0ERSRu5yUqumEzbT-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="310" />
+              <mxPoint x="380" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
