@@ -151,7 +151,7 @@
         <mxCell id="VrGoDvTvh73IpMBv811c-6" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="85" width="101" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="VrGoDvTvh73IpMBv811c-7" value="点击对应公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VrGoDvTvh73IpMBv811c-7" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="-5" width="101" height="35" as="geometry" />
         </mxCell>
       </root>
