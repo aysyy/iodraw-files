@@ -89,7 +89,10 @@
           <mxGeometry x="215" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t-c-E_DhYsPo8meHnwhw-41" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="308" width="60" height="30" as="geometry" />
+          <mxGeometry x="215" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-c-E_DhYsPo8meHnwhw-42" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="408" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
