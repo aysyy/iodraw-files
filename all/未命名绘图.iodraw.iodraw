@@ -22,7 +22,7 @@
         <mxCell id="t-c-E_DhYsPo8meHnwhw-5" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t-c-E_DhYsPo8meHnwhw-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.8;arrowSize=0.45;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="t-c-E_DhYsPo8meHnwhw-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
