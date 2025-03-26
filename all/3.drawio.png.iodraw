@@ -115,6 +115,9 @@
         <mxCell id="MTd_ieamjuOgy4x28rk7-8" value="个人信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MTd_ieamjuOgy4x28rk7-9" value="发文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="101" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
