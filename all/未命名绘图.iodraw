@@ -7,6 +7,12 @@
         <mxCell id="518B6CsAz07IpfxrdvMU-1" value="&lt;span style=&quot;font-size:10.5pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;mso-bidi-font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;即时消息系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="518B6CsAz07IpfxrdvMU-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
