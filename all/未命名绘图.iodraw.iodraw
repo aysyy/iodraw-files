@@ -43,6 +43,9 @@
         <mxCell id="ONHr0ERSRu5yUqumEzbT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-9" target="ONHr0ERSRu5yUqumEzbT-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONHr0ERSRu5yUqumEzbT-9" target="ONHr0ERSRu5yUqumEzbT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-9" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="40" width="70" height="40" as="geometry" />
         </mxCell>
