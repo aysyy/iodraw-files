@@ -134,7 +134,7 @@
           <mxGeometry x="400" y="420" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-77" value="发文本消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="101" height="30" as="geometry" />
+          <mxGeometry x="390" y="360" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
