@@ -113,12 +113,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MTd_ieamjuOgy4x28rk7-8" value="个人信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MTd_ieamjuOgy4x28rk7-9" value="管理员管理个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420.5" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTd_ieamjuOgy4x28rk7-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MTd_ieamjuOgy4x28rk7-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MTd_ieamjuOgy4x28rk7-8" target="MTd_ieamjuOgy4x28rk7-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="450" as="sourcePoint" />
             <mxPoint x="420" y="400" as="targetPoint" />
