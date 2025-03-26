@@ -101,7 +101,16 @@
           <mxGeometry x="380" y="270" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONHr0ERSRu5yUqumEzbT-68" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="100" width="101" height="30" as="geometry" />
+          <mxGeometry x="380" y="360" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-69" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="460" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONHr0ERSRu5yUqumEzbT-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
