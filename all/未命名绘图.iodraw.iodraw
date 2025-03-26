@@ -118,7 +118,7 @@
         <mxCell id="t-c-E_DhYsPo8meHnwhw-50" value="存储过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t-c-E_DhYsPo8meHnwhw-51" value="POST请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-c-E_DhYsPo8meHnwhw-51" value="redis数据缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t-c-E_DhYsPo8meHnwhw-52" value="POST请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
