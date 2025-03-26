@@ -106,6 +106,9 @@
         <mxCell id="518B6CsAz07IpfxrdvMU-35" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理员与用户互动&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="810" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="518B6CsAz07IpfxrdvMU-36" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;退出&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
