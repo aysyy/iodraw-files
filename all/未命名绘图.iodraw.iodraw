@@ -7,9 +7,6 @@
         <mxCell id="t-c-E_DhYsPo8meHnwhw-1" value="即时通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t-c-E_DhYsPo8meHnwhw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-c-E_DhYsPo8meHnwhw-2" target="t-c-E_DhYsPo8meHnwhw-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="t-c-E_DhYsPo8meHnwhw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="290" height="50" as="geometry" />
         </mxCell>
@@ -25,8 +22,8 @@
         <mxCell id="t-c-E_DhYsPo8meHnwhw-5" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t-c-E_DhYsPo8meHnwhw-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="265" width="80" height="60" as="geometry" />
+        <mxCell id="t-c-E_DhYsPo8meHnwhw-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="60" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
