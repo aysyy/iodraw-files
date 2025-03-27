@@ -89,10 +89,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-31" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;系统公告管理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="720" width="100" height="30" as="geometry" />
+          <mxGeometry x="380" y="750" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-32" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="760" width="100" height="30" as="geometry" />
+          <mxGeometry x="380" y="790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-33" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理员个人信息&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="600" width="100" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="380" y="640" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-35" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理员与用户互动&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="800" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="830" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="518B6CsAz07IpfxrdvMU-36" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;退出&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="680" width="100" height="30" as="geometry" />
