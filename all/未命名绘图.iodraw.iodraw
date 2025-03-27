@@ -90,10 +90,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-28" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="550" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="490" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-30" value="头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="550" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="158.75" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-31" value="点击上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="600" width="128.75" height="80" as="geometry" />
