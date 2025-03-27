@@ -142,8 +142,8 @@
             <mxPoint x="320" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TodOn120tBrvuGDbgEqX-1" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;系统公告管理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="770" width="100" height="30" as="geometry" />
+        <mxCell id="TodOn120tBrvuGDbgEqX-1" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理员登录&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
