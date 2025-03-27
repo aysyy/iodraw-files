@@ -68,13 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-11" value="删除成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="770" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="540" y="730" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-12" value="修改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="770" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="400" y="690" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-13" value="添加成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="261.25" y="770" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="261.25" y="690" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-15" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.25" y="690" width="128.75" height="80" as="geometry" />
