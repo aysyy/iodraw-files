@@ -114,8 +114,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-42" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="668" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="658" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
