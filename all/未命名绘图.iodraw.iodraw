@@ -103,7 +103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-27" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343.12" y="560" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="490" y="550" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-28" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353.12" y="570" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
