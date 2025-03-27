@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Eu30meBGAAqQlxrpwy-Z">
-    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KE2SwNAajTa7psGZZI7Y-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="KE2SwNAajTa7psGZZI7Y-1" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: medium; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;开始&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;生成随机 AES 密钥&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;使用 AES 密钥加密数据&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;获取 RSA 公钥&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;使用 RSA 公钥加密 AES 密钥&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;存储加密后的数据和加密后的 AES 密钥&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;需要解密?&lt;br/&gt;|      |&lt;br/&gt;是     否&lt;br/&gt;|      |&lt;br/&gt;v      v&lt;br/&gt;获取 RSA 私钥  ----&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;使用 RSA 私钥解密 AES 密钥&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;使用解密后的 AES 密钥解密数据&lt;br/&gt;|&lt;br/&gt;v&lt;br/&gt;结束&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-92" width="300" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
