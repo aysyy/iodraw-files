@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-19" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-19" value="进入管理员系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="740" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-20" value="进入用户系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
