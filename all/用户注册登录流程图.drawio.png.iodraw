@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-25" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360.63" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="360.63" y="850" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-1" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="585" width="127.5" height="30" as="geometry" />
@@ -184,6 +184,7 @@
             <mxPoint x="660" y="890" as="targetPoint" />
             <Array as="points">
               <mxPoint x="464" y="830" />
+              <mxPoint x="396" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -193,6 +194,7 @@
             <mxPoint x="680" y="860" as="targetPoint" />
             <Array as="points">
               <mxPoint x="603" y="830" />
+              <mxPoint x="396" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
