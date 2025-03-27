@@ -46,6 +46,9 @@
         <mxCell id="EoJCvCAlZtdS_5ZYIUPh-3" value="查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="122.5" y="585" width="127.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EoJCvCAlZtdS_5ZYIUPh-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
