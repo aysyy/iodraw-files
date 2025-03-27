@@ -25,7 +25,7 @@
             <mxPoint x="440" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-8" value="数据处理权限判断" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-8" value="是否删除" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="538.75" y="650" width="128.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-6" target="tMeLsNifIbqgdUK3Lze3-8" edge="1">
