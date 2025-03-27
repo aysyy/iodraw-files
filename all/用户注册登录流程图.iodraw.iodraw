@@ -7,19 +7,13 @@
         <mxCell id="tMeLsNifIbqgdUK3Lze3-2" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360.63" y="460" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-2" target="tMeLsNifIbqgdUK3Lze3-4" edge="1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395" y="460" as="sourcePoint" />
-            <mxPoint x="395" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-4" value="群组聊天" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="331.25" y="520" width="127.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="480" as="sourcePoint" />
-            <mxPoint x="395" y="570" as="targetPoint" />
+            <mxPoint x="395" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="670" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-20" value="群组聊天" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
