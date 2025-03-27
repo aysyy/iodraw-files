@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzfdtLf2tjxJYbu16rxm-4" value="文本消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="790" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="150" y="790" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vzfdtLf2tjxJYbu16rxm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-20" target="vzfdtLf2tjxJYbu16rxm-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="vzfdtLf2tjxJYbu16rxm-11" value="是否确认选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331.26" y="860" width="128.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfdtLf2tjxJYbu16rxm-13" value="是否确认选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="341.26" y="870" width="128.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
