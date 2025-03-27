@@ -16,7 +16,7 @@
         <mxCell id="tMeLsNifIbqgdUK3Lze3-4" value="用户个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="332.5" y="450" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-6" value="性别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="333.12" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-4" target="tMeLsNifIbqgdUK3Lze3-6">
@@ -92,13 +92,13 @@
         <mxCell id="tMeLsNifIbqgdUK3Lze3-27" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-28" value="性别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-28" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-29" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-30" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-30" value="头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="550" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
