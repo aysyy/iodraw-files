@@ -47,33 +47,14 @@
         <mxCell id="tMeLsNifIbqgdUK3Lze3-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="610" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-8" target="tMeLsNifIbqgdUK3Lze3-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="580" as="sourcePoint" />
-            <mxPoint x="320" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="396" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-20" value="进入用户系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.25" y="740" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-22" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="690" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-20" target="tMeLsNifIbqgdUK3Lze3-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="580" as="sourcePoint" />
-            <mxPoint x="390" y="800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="314" y="800" />
-              <mxPoint x="395" y="800" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="305" y="690" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-25" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="820" width="70" height="40" as="geometry" />
+          <mxGeometry x="360.63" y="800" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
