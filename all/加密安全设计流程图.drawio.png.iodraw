@@ -37,7 +37,7 @@
             <mxPoint x="396" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-5" value="发送方" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-5" value="接收方" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.88" y="460" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-4" target="EGaIMLkU5r2U86ZL2PVQ-3" edge="1">
