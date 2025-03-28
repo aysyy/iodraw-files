@@ -13,7 +13,7 @@
             <mxPoint x="395" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMeLsNifIbqgdUK3Lze3-4" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tMeLsNifIbqgdUK3Lze3-4" value="获取加密后的AES密钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.88" y="510" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMeLsNifIbqgdUK3Lze3-25" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
