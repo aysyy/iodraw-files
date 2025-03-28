@@ -28,9 +28,6 @@
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-3" value="使用接收方的RSA私钥解密" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.88" y="590" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-4" value="获取接收方RSA公钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="560" width="127.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-2" target="EGaIMLkU5r2U86ZL2PVQ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="396" y="430" as="sourcePoint" />
@@ -46,12 +43,6 @@
             <mxPoint x="170" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMeLsNifIbqgdUK3Lze3-4" target="EGaIMLkU5r2U86ZL2PVQ-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="740" as="sourcePoint" />
-            <mxPoint x="780" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-10" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.88" y="760" width="127.5" height="30" as="geometry" />
         </mxCell>
@@ -59,12 +50,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="540" as="sourcePoint" />
             <mxPoint x="120" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EGaIMLkU5r2U86ZL2PVQ-4" target="EGaIMLkU5r2U86ZL2PVQ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="680" as="sourcePoint" />
-            <mxPoint x="670" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EGaIMLkU5r2U86ZL2PVQ-0" target="EGaIMLkU5r2U86ZL2PVQ-10" edge="1">
