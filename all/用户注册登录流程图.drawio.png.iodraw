@@ -20,10 +20,10 @@
           <mxGeometry x="360.63" y="850" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-0" value="AES加密数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="233.13" y="569.5" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="250" y="570" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-1" value="RSA加密AES密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="570" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="414" y="570" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
