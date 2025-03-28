@@ -19,7 +19,7 @@
         <mxCell id="tMeLsNifIbqgdUK3Lze3-25" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360.63" y="820" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-0" value="AES加密数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-0" value="AES解密数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="670" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-1" value="获取发送方AES密钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
