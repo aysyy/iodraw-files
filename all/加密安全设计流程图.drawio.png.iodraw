@@ -71,12 +71,18 @@
           <mxGeometry x="331.88" y="620" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2qaGiiRa3eRTCLH3D9wz-2" value="获取加密数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="470" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="430.63" y="470" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2qaGiiRa3eRTCLH3D9wz-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2qaGiiRa3eRTCLH3D9wz-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EGaIMLkU5r2U86ZL2PVQ-5" target="2qaGiiRa3eRTCLH3D9wz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="620" as="sourcePoint" />
             <mxPoint x="160" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qaGiiRa3eRTCLH3D9wz-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="690" as="sourcePoint" />
+            <mxPoint x="160" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
