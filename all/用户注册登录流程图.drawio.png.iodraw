@@ -37,8 +37,8 @@
             <mxPoint x="396" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-5" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="460" width="127.5" height="30" as="geometry" />
+        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-5" value="发送方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="331.88" y="460" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
