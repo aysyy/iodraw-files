@@ -26,7 +26,10 @@
           <mxGeometry x="414" y="610" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EGaIMLkU5r2U86ZL2PVQ-3" value="发送方AES生成密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="560" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="240" y="560" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EGaIMLkU5r2U86ZL2PVQ-4" value="获取接收方RSA公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="560" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
