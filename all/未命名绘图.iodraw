@@ -112,6 +112,9 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-32" value="MySQL建模工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
