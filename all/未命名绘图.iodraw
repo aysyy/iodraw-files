@@ -97,8 +97,14 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-26" value="POST请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="312.5" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-27" value="基于Spring Boot的业务处理框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-27" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="205" y="420" width="335" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
