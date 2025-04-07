@@ -73,8 +73,8 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-17" value="PC-Web端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-18" value="基于Vue.js框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
