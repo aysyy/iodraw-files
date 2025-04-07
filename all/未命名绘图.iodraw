@@ -121,7 +121,7 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-35" value="系统公告业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="470" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-36" value="单人聊天业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-36" value="用户管理业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="470" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
