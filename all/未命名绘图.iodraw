@@ -136,8 +136,8 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-40" value="系统公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="189.5" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-41" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="210" width="75" height="20" as="geometry" />
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-41" value="群组聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-42" value="单人聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="190" width="75" height="20" as="geometry" />
