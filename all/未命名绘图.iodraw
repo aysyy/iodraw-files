@@ -127,6 +127,12 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-37" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="160" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-38" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-39" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
