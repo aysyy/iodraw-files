@@ -106,7 +106,7 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-30" value="缓存中间件：Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-31" value="持久化存储：MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
