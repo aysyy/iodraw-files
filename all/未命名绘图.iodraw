@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="295" width="230" height="75" as="geometry" />
+          <mxGeometry x="210" y="287.5" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_web;" vertex="1" parent="1">
           <mxGeometry x="330" y="170.5" width="56" height="49" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-18" value="（基于Vue.js框架）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="189.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="287.5" width="230" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
