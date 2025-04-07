@@ -88,7 +88,7 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-23" value="HTTP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="312.5" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-24" value="JSON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="312.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
