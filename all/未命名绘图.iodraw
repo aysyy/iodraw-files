@@ -118,6 +118,9 @@
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-34" value="群组聊天业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-35" value="单人聊天业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="460" width="75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
