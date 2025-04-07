@@ -137,13 +137,16 @@
           <mxGeometry x="435" y="185" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-41" value="群组聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="75" height="19.5" as="geometry" />
+          <mxGeometry x="630" y="185" width="75" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-42" value="单人聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="185" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zpgUZKbUt3ADJ-LhDR-2-43" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="210" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgUZKbUt3ADJ-LhDR-2-44" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
