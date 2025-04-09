@@ -11,10 +11,10 @@
           <mxGeometry x="230" y="230" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-3" value="客户端使用本地RSA私钥解密加密后的AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="340" width="290" height="40" as="geometry" />
+          <mxGeometry x="255" y="300" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务端使用客户端RSA公钥加密AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="270" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
