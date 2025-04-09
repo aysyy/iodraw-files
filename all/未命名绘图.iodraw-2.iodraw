@@ -85,6 +85,9 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-27" value="客户端使用解密后的 AES 密钥解密消息内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="498" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-28" value="显示原始消息内容（客户端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="598" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
