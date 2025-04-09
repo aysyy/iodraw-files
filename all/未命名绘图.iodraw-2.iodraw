@@ -14,7 +14,7 @@
           <mxGeometry x="255" y="290" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务端使用客户端RSA公钥加密AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="240" height="30" as="geometry" />
+          <mxGeometry x="280" y="250" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="服务端生成AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="20" as="geometry" />
@@ -41,6 +41,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="320" as="sourcePoint" />
             <mxPoint x="10" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-5" target="EUwjy8ryEDjYzgLUAmKn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="270" as="sourcePoint" />
+            <mxPoint x="50" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
