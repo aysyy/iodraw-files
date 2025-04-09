@@ -88,6 +88,12 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-28" value="显示原始消息内容（接收者客户端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="598" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.504;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="500" as="sourcePoint" />
+            <mxPoint x="30" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
