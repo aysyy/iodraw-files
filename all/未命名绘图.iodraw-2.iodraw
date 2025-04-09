@@ -19,8 +19,8 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="服务端生成AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="服务端将加密后的消息内容、加密后的 AES 密钥以及相关信息（如发送者 ID、接收者 ID 等）发送到客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="596" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
