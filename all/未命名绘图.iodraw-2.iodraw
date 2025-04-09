@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-1" target="EUwjy8ryEDjYzgLUAmKn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="客户端生成RSA密钥对并上传公钥至服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="340" height="30" as="geometry" />
