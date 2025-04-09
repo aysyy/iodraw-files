@@ -16,6 +16,9 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务端使用客户端RSA公钥加密AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="服务端生成AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
