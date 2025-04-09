@@ -20,13 +20,16 @@
           <mxGeometry x="340" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="客户端将加密后的消息内容发送到服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="102" y="390" width="548" height="20" as="geometry" />
+          <mxGeometry x="126" y="410" width="548" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-7" value="用户输入消息（客户端）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-8" value="服务端接收到加密数据并存储到数据库中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
