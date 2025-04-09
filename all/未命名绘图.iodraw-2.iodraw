@@ -7,7 +7,7 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="用户输入账号密码进行登录（客户端）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="130" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
