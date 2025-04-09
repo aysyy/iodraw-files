@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="250" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="服务端生成AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="20" as="geometry" />
+          <mxGeometry x="340" y="170" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="客户端将加密后的消息内容发送到服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126" y="410" width="548" height="20" as="geometry" />
