@@ -25,6 +25,9 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-7" value="用户输入消息（客户端）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="468" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
