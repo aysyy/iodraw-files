@@ -10,9 +10,6 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="用户输入账号密码进行登录（客户端）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="130" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-3" value="客户端使用本地RSA私钥解密加密后的AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="250" width="295" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="210" width="330" height="20" as="geometry" />
         </mxCell>
@@ -49,15 +46,15 @@
             <mxPoint x="50" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-3">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="320" as="sourcePoint" />
-            <mxPoint x="30" y="270" as="targetPoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-3" target="EUwjy8ryEDjYzgLUAmKn-7">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EUwjy8ryEDjYzgLUAmKn-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="700" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -112,6 +109,7 @@
             <mxPoint x="620" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="300" />
+              <mxPoint x="620" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
