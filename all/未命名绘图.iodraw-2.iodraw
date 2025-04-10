@@ -8,7 +8,7 @@
           <mxGeometry x="370" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="120" width="45" height="20" as="geometry" />
+          <mxGeometry x="377.5" y="120" width="42.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="298.75" y="190" width="202.5" height="20" as="geometry" />
