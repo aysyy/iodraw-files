@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-184" value="客户端发送加密消息到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1470.25" y="500" width="179.75" height="24.5" as="geometry" />
+          <mxGeometry x="1392.57" y="450" width="177.43" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
