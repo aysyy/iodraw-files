@@ -14,7 +14,7 @@
           <mxGeometry x="298.75" y="190" width="202.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="客户端发送登录请求到服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="315" y="150" width="170" height="20" as="geometry" />
+          <mxGeometry x="313.75" y="160" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="248" y="310" width="304" height="20" as="geometry" />
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="186.75" y="500" width="424" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="93eyLls7oPN5yVUYKk1G-23" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
