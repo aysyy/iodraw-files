@@ -10,12 +10,6 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="365" y="140" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="235" y="230" width="330" height="20" as="geometry" />
         </mxCell>
@@ -24,9 +18,6 @@
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="126" y="310" width="548" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-7" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="370" y="270" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-8" value="客户端后续发送请求（包含 JWT 令牌在请求头）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="350" width="280" height="30" as="geometry" />
@@ -82,9 +73,9 @@
             <mxPoint x="100" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-7" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="280" as="sourcePoint" />
             <mxPoint x="620" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="280" />
