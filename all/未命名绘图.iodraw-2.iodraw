@@ -354,6 +354,9 @@
         <mxCell id="trw70KUKvf95RieFYTFM-155" value="客户端用AES密钥加密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1365.75" y="500" width="211" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-156" value="客户端发送加密消息到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1376.5" y="560" width="205" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
