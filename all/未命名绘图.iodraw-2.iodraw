@@ -10,6 +10,9 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="365" y="140" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="93eyLls7oPN5yVUYKk1G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="235" y="230" width="330" height="20" as="geometry" />
         </mxCell>
@@ -41,18 +44,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="320" as="sourcePoint" />
             <mxPoint x="10" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-5" target="EUwjy8ryEDjYzgLUAmKn-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="270" as="sourcePoint" />
-            <mxPoint x="50" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="sourcePoint" />
-            <mxPoint x="700" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-6" target="EUwjy8ryEDjYzgLUAmKn-8" edge="1">
