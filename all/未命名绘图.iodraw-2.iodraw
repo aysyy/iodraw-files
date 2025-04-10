@@ -219,10 +219,10 @@
           <mxGeometry x="1379" y="570" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-159" value="接收者客户端显示原始消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1395.22" y="625" width="170" height="30" as="geometry" />
+          <mxGeometry x="1394" y="610" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-160" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="672" width="50" height="30" as="geometry" />
+          <mxGeometry x="1454" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-161" value="本地存储AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1252.07" y="340" width="120" height="30" as="geometry" />
