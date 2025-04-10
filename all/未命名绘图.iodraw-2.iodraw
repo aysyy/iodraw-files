@@ -20,7 +20,7 @@
           <mxGeometry x="887.25" y="180" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-72" value="服务端用RSA公钥加密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="845.5" y="230" width="174.5" height="40" as="geometry" />
+          <mxGeometry x="845.5" y="230" width="374.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-73" value="服务端发送加密AES密钥到客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="824.75" y="300" width="216" height="67" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="850" y="500" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-76" value="用户输入消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="860" y="850" width="127" height="49" as="geometry" />
+          <mxGeometry x="874" y="570" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-77" value="客户端用AES密钥加密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="815" y="949" width="218" height="49" as="geometry" />
+          <mxGeometry x="830" y="650" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-78" value="客户端发送加密消息到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="812" y="1048" width="224" height="67" as="geometry" />
