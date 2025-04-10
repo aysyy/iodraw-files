@@ -103,9 +103,9 @@
           <mxGeometry x="345" y="460" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="110" height="50" as="geometry" />
+          <mxGeometry x="347.5" y="250" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="93eyLls7oPN5yVUYKk1G-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="93eyLls7oPN5yVUYKk1G-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="300" as="sourcePoint" />
             <mxPoint x="60" y="250" as="targetPoint" />
