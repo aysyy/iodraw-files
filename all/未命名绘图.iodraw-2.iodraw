@@ -123,14 +123,14 @@
         <mxCell id="93eyLls7oPN5yVUYKk1G-14" value="结束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-17" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="93eyLls7oPN5yVUYKk1G-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;客户端后续发送请求（包含 JWT 令牌在请求头）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="108" y="680" width="304" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-18" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="485" y="690" width="304" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="258" y="320" width="304" height="20" as="geometry" />
+          <mxGeometry x="116" y="740" width="304" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
