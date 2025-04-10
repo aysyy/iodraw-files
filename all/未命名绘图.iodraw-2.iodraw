@@ -321,7 +321,7 @@
             <mxPoint x="1380" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-144" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="trw70KUKvf95RieFYTFM-144" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="90" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-145" value="客户端生成RSA密钥对" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
