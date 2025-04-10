@@ -369,7 +369,7 @@
         <mxCell id="trw70KUKvf95RieFYTFM-160" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="780" width="58" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-161" value="本地存储RSA私钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="trw70KUKvf95RieFYTFM-161" value="本地存储AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1190" y="555" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
