@@ -207,7 +207,7 @@
           <mxGeometry x="1388.5" y="290" width="183.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-152" value="客户端用RSA私钥解密AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1387.75" y="370" width="186" height="30" as="geometry" />
+          <mxGeometry x="1387.75" y="330" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-155" value="客户端用AES密钥加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1406.38" y="470" width="150.75" height="30" as="geometry" />
@@ -285,6 +285,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="360" as="sourcePoint" />
             <mxPoint x="990" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-176" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="510" as="sourcePoint" />
+            <mxPoint x="1150" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
