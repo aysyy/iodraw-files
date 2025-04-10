@@ -358,10 +358,10 @@
           <mxGeometry x="1373" y="520" width="205" height="25" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1363" y="568" width="218" height="29" as="geometry" />
+          <mxGeometry x="1363" y="594" width="218" height="29" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-158" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="671" width="205" height="28" as="geometry" />
+          <mxGeometry x="1379.25" y="646" width="205" height="28" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-159" value="接收者客户端显示原始消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="720" width="197" height="29" as="geometry" />
@@ -374,6 +374,9 @@
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="568" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-162" target="trw70KUKvf95RieFYTFM-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
