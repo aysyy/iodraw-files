@@ -11,7 +11,7 @@
           <mxGeometry x="365" y="100" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="235" y="190" width="205" height="30" as="geometry" />
+          <mxGeometry x="300" y="190" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="客户端发送登录请求到服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="315" y="150" width="170" height="20" as="geometry" />
@@ -104,6 +104,12 @@
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="93eyLls7oPN5yVUYKk1G-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="300" as="sourcePoint" />
+            <mxPoint x="60" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
