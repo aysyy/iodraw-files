@@ -22,9 +22,6 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-8" value="客户端后续发送请求（包含 JWT 令牌在请求头）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="258.75" y="350" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-10" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="700" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-1" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="220" as="sourcePoint" />
@@ -67,10 +64,10 @@
             <mxPoint x="90" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.513;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-28" target="EUwjy8ryEDjYzgLUAmKn-10" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.513;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="540" as="sourcePoint" />
-            <mxPoint x="100" y="490" as="targetPoint" />
+            <mxPoint x="399.75" y="570.49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-2" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
