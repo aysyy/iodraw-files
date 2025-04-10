@@ -228,7 +228,7 @@
           <mxGeometry x="1252.07" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1392.13" y="487" width="180" height="30" as="geometry" />
+          <mxGeometry x="1389" y="490" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-165" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-144" target="trw70KUKvf95RieFYTFM-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -353,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-184" value="客户端发送加密消息到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1391.57" y="447" width="180" height="30" as="geometry" />
+          <mxGeometry x="1389" y="450" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-186" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-184" target="trw70KUKvf95RieFYTFM-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
