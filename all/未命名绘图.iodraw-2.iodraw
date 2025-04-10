@@ -358,7 +358,7 @@
           <mxGeometry x="1376.5" y="560" width="205" height="25" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1560" y="617" width="218" height="29" as="geometry" />
+          <mxGeometry x="1378.25" y="610" width="218" height="29" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-158" value="接收者客户端用AES密钥解密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1375" y="671" width="205" height="28" as="geometry" />
@@ -370,7 +370,7 @@
           <mxGeometry x="1450" y="780" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-161" value="本地存储RSA私钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1210" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="1190" y="555" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
