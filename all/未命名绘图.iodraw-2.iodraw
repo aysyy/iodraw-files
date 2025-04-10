@@ -360,6 +360,12 @@
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1560" y="617" width="218" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-158" value="接收者客户端用AES密钥解密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1375" y="671" width="205" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-159" value="接收者客户端显示原始消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="865.75" y="780" width="197" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
