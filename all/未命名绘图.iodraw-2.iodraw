@@ -52,7 +52,7 @@
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-28" value="&lt;div&gt;服务器根据 JWT 载荷中的用户信息进行权限控制&lt;span style=&quot;background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="170" y="520" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.504;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-25" target="93eyLls7oPN5yVUYKk1G-1" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.497;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-25" target="93eyLls7oPN5yVUYKk1G-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="500" as="sourcePoint" />
             <mxPoint x="400.98" y="483.99" as="targetPoint" />
@@ -88,7 +88,7 @@
             <mxPoint x="365" y="495.99" as="sourcePoint" />
             <mxPoint x="120" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="466" />
+              <mxPoint x="210" y="475" />
               <mxPoint x="210" y="130" />
             </Array>
           </mxGeometry>
