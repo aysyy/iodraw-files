@@ -123,8 +123,11 @@
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="186.75" y="500" width="424" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-23" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="240" width="80" height="30" as="geometry" />
+        <mxCell id="93eyLls7oPN5yVUYKk1G-23" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="470" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="93eyLls7oPN5yVUYKk1G-24" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="480" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
