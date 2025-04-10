@@ -11,10 +11,10 @@
           <mxGeometry x="377.5" y="120" width="42.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="298.75" y="190" width="202.5" height="20" as="geometry" />
+          <mxGeometry x="297.5" y="190" width="202.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="客户端发送登录请求到服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="313.75" y="150" width="170" height="20" as="geometry" />
+          <mxGeometry x="313.75" y="160" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="248" y="310" width="304" height="20" as="geometry" />
