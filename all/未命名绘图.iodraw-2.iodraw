@@ -13,6 +13,9 @@
         <mxCell id="93eyLls7oPN5yVUYKk1G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93eyLls7oPN5yVUYKk1G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="235" y="230" width="330" height="20" as="geometry" />
         </mxCell>
