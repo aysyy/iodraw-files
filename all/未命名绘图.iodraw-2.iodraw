@@ -49,7 +49,7 @@
             <mxPoint x="400.98" y="483.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-1" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-1" target="93eyLls7oPN5yVUYKk1G-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400.28" y="510" as="sourcePoint" />
             <mxPoint x="400.8499999999999" y="525.01" as="targetPoint" />
@@ -121,7 +121,7 @@
           <mxGeometry x="242.5" y="390" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="116" y="740" width="424" height="20" as="geometry" />
+          <mxGeometry x="200" y="530" width="424" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
