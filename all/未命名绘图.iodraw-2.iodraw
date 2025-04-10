@@ -213,7 +213,7 @@
           <mxGeometry x="1404.88" y="410" width="155.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1371.25" y="530" width="198.75" height="29" as="geometry" />
+          <mxGeometry x="1386.32" y="540" width="198.75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-158" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1379.25" y="646" width="205" height="28" as="geometry" />
@@ -330,6 +330,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="550" as="sourcePoint" />
             <mxPoint x="1160" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-187" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="600" as="sourcePoint" />
+            <mxPoint x="1200" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
