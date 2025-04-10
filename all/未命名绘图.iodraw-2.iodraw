@@ -349,7 +349,10 @@
           <mxGeometry x="1374.25" y="390" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-154" value="用户输入消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="903.5" y="470" width="126.5" height="30" as="geometry" />
+          <mxGeometry x="1415.75" y="450" width="126.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-155" value="客户端用AES密钥加密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1365.75" y="500" width="211" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
