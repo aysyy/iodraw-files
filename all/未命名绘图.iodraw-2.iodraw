@@ -4,20 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=none;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="368.75" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="120" width="42.5" height="20" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="客户端生成RSA密钥对并上传公钥至服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="130" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="297.5" y="200" width="202.5" height="20" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-3" value="客户端使用本地RSA私钥解密加密后的AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="252.5" y="250" width="295" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="客户端发送登录请求到服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="313.75" y="160" width="170" height="20" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务端使用客户端RSA公钥加密AES密钥并发送到客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="210" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="246.75" y="310" width="304" height="20" as="geometry" />
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="服务端生成AES密钥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="发送者客户端将AES加密后的消息内容发送到服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="126" y="330" width="548" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-7" value="用户输入消息（发送者客户端）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="290" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-8" value="服务端接收到加密数据并存储到数据库中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="370" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-10" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="375" y="570" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-1" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,103 +43,68 @@
             <mxPoint x="10" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-6" target="93eyLls7oPN5yVUYKk1G-17" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-5" target="EUwjy8ryEDjYzgLUAmKn-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="270" as="sourcePoint" />
+            <mxPoint x="50" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="EUwjy8ryEDjYzgLUAmKn-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="320" as="sourcePoint" />
+            <mxPoint x="30" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-3" target="EUwjy8ryEDjYzgLUAmKn-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="700" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-7" target="EUwjy8ryEDjYzgLUAmKn-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="380" as="sourcePoint" />
+            <mxPoint x="-40" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-6" target="EUwjy8ryEDjYzgLUAmKn-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-90" y="450" as="sourcePoint" />
-            <mxPoint x="400" y="350" as="targetPoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-17" target="93eyLls7oPN5yVUYKk1G-18" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-8" target="EUwjy8ryEDjYzgLUAmKn-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="400" y="400.99" as="targetPoint" />
+            <mxPoint x="40" y="470" as="sourcePoint" />
+            <mxPoint x="110" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-18" target="93eyLls7oPN5yVUYKk1G-1" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-25" value="服务端将加密后的消息转发给接收者客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="420" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-27" value="接收者客户端使用解密后的 AES 密钥解密消息内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="470" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-28" value="显示原始消息内容（接收者客户端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="520" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.504;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-25" target="EUwjy8ryEDjYzgLUAmKn-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399.01" y="427.99" as="sourcePoint" />
-            <mxPoint x="400.98" y="483.99" as="targetPoint" />
+            <mxPoint x="-20" y="500" as="sourcePoint" />
+            <mxPoint x="30" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-1" target="93eyLls7oPN5yVUYKk1G-19" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.504;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.505;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-27" target="EUwjy8ryEDjYzgLUAmKn-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.28" y="510" as="sourcePoint" />
-            <mxPoint x="400.8499999999999" y="525.01" as="targetPoint" />
+            <mxPoint x="40" y="560" as="sourcePoint" />
+            <mxPoint x="90" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-19" target="93eyLls7oPN5yVUYKk1G-14" edge="1">
+        <mxCell id="EUwjy8ryEDjYzgLUAmKn-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.505;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-28" target="EUwjy8ryEDjYzgLUAmKn-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.8499999999999" y="550.99" as="sourcePoint" />
-            <mxPoint x="399.75" y="570.49" as="targetPoint" />
+            <mxPoint x="50" y="540" as="sourcePoint" />
+            <mxPoint x="100" y="490" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-2" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="280" as="sourcePoint" />
-            <mxPoint x="620" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="265" />
-              <mxPoint x="590" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-33" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="230" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-1" target="EUwjy8ryEDjYzgLUAmKn-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="495.99" as="sourcePoint" />
-            <mxPoint x="120" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="455" />
-              <mxPoint x="210" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EUwjy8ryEDjYzgLUAmKn-37" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="242.5" y="430" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343.75" y="430" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343.75" y="240" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-4" target="93eyLls7oPN5yVUYKk1G-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="300" as="sourcePoint" />
-            <mxPoint x="60" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="93eyLls7oPN5yVUYKk1G-2" target="EUwjy8ryEDjYzgLUAmKn-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="300" as="sourcePoint" />
-            <mxPoint x="80" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EUwjy8ryEDjYzgLUAmKn-5" target="EUwjy8ryEDjYzgLUAmKn-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="210" as="sourcePoint" />
-            <mxPoint x="70" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-14" value="结束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=none;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="368.75" y="540" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;客户端后续发送请求（包含 JWT 令牌在请求头）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="262.75" y="350" width="272" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器接收请求并验证 JWT 令牌（验证签名、检查过期）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="241.25" y="390" width="315" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="186.75" y="500" width="424" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-23" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="408.75" y="470" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="93eyLls7oPN5yVUYKk1G-24" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
