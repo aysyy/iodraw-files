@@ -201,7 +201,7 @@
           <mxGeometry x="1388.6299999999999" y="260" width="183.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-150" value="配置文件存储AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="220" width="130" height="20" as="geometry" />
+          <mxGeometry x="1590" y="220" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-151" value="服务端发送加密AES密钥到客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1386.0100000000002" y="300" width="191.5" height="20" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="1241" y="380" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1390.25" y="558.5" width="180" height="26" as="geometry" />
+          <mxGeometry x="1390.25" y="560" width="179.75" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-162" target="trw70KUKvf95RieFYTFM-162">
           <mxGeometry relative="1" as="geometry" />
