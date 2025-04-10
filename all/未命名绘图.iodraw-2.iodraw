@@ -329,6 +329,9 @@
             <mxPoint x="1610" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-184" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1470.25" y="500" width="179.75" height="24.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
