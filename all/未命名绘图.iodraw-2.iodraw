@@ -88,7 +88,7 @@
           <mxGeometry x="242.5" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="430" width="110" height="50" as="geometry" />
+          <mxGeometry x="343.75" y="430" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="343.75" y="240" width="110" height="50" as="geometry" />
@@ -115,10 +115,10 @@
           <mxGeometry x="370" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;客户端后续发送请求（包含 JWT 令牌在请求头）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="264" y="350" width="272" height="20" as="geometry" />
+          <mxGeometry x="262.75" y="350" width="272" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器接收请求并验证 JWT 令牌（验证签名、检查过期）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="242.5" y="390" width="315" height="20" as="geometry" />
+          <mxGeometry x="241.25" y="390" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="188" y="500" width="424" height="20" as="geometry" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-24" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tn2mxzUBDkMNUR4rwtTP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.717;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="93eyLls7oPN5yVUYKk1G-19" target="93eyLls7oPN5yVUYKk1G-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
