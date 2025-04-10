@@ -29,7 +29,7 @@
           <mxGeometry x="844" y="340" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-75" value="客户端存储AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="872.5" y="400" width="169" height="49" as="geometry" />
+          <mxGeometry x="872.5" y="400" width="157.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-76" value="用户输入消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="874" y="570" width="127" height="49" as="geometry" />
