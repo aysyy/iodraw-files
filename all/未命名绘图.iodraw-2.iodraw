@@ -44,10 +44,10 @@
           <mxGeometry x="841.25" y="630" width="218" height="26" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-80" value="服务端转发加密消息到接收者客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="812" y="1281" width="223" height="67" as="geometry" />
+          <mxGeometry x="841.25" y="680" width="218" height="29" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-81" value="接收者客户端用AES密钥解密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="815" y="1398" width="217" height="67" as="geometry" />
+          <mxGeometry x="839" y="900" width="205" height="28" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-82" value="接收者客户端显示原始消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="812" y="1514" width="223" height="49" as="geometry" />
