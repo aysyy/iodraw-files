@@ -38,7 +38,7 @@
           <mxGeometry x="849" y="510" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-78" value="客户端发送加密消息到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="812" y="1048" width="224" height="67" as="geometry" />
+          <mxGeometry x="845" y="585" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-79" value="服务端存储加密消息到数据库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="812" y="1164" width="223" height="67" as="geometry" />
