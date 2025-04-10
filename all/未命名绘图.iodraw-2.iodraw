@@ -328,7 +328,10 @@
           <mxGeometry x="1300" y="150" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-146" value="服务端生成AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="897.25" y="190" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="1530" y="150" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-147" value="上传RSA公钥到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1370" y="210" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
