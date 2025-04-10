@@ -204,7 +204,7 @@
           <mxGeometry x="1610" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-151" value="服务端发送加密AES密钥到客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1386.5" y="320" width="189.75" height="30" as="geometry" />
+          <mxGeometry x="1385.38" y="320" width="189.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-152" value="客户端用RSA私钥解密AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1387.75" y="370" width="186" height="30" as="geometry" />
@@ -275,7 +275,7 @@
         <mxCell id="trw70KUKvf95RieFYTFM-173" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户输入消息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1429.75" y="420" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-174" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-149">
+        <mxCell id="trw70KUKvf95RieFYTFM-174" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-149" target="trw70KUKvf95RieFYTFM-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="380" as="sourcePoint" />
             <mxPoint x="850" y="330" as="targetPoint" />
