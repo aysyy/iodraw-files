@@ -230,9 +230,6 @@
         <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1390.25" y="560" width="179.75" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-162" target="trw70KUKvf95RieFYTFM-162">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-165" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-144" target="trw70KUKvf95RieFYTFM-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="230" as="sourcePoint" />
