@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-144" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="60" width="50" height="30" as="geometry" />
+          <mxGeometry x="1454" y="70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-145" value="客户端生成RSA密钥对" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1316.75" y="125" width="140" height="30" as="geometry" />
@@ -245,6 +245,7 @@
             <mxPoint x="1000" y="180" as="sourcePoint" />
             <mxPoint x="1050" y="130" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1479" y="110" />
               <mxPoint x="1581" y="110" />
             </Array>
           </mxGeometry>
@@ -259,6 +260,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="220" as="sourcePoint" />
             <mxPoint x="1080" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1387" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-169" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-146" target="trw70KUKvf95RieFYTFM-150">
