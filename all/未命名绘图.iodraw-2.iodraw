@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-25" value="服务器接收请求并验证 JWT 令牌（验证签名、检查过期）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="235" y="400" width="330" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="440" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-28" value="&lt;div&gt;服务器根据 JWT 载荷中的用户信息进行权限控制&lt;span style=&quot;background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="170" y="560" width="450" height="30" as="geometry" />
@@ -97,10 +97,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-37" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="235" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="460" width="110" height="50" as="geometry" />
+          <mxGeometry x="347.5" y="500" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;验证是否通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="250" width="110" height="50" as="geometry" />
