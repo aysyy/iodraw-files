@@ -342,16 +342,11 @@
         <mxCell id="trw70KUKvf95RieFYTFM-150" value="配置文件存储AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1640" y="210" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-151">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1460" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-151" value="服务端发送加密AES密钥到客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1508" y="330" width="194" height="30" as="geometry" />
+          <mxGeometry x="1386" y="330" width="194" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-152" value="客户端用RSA私钥解密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1370" y="400" width="226" height="30" as="geometry" />
+          <mxGeometry x="1374.25" y="390" width="226" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
