@@ -213,7 +213,7 @@
           <mxGeometry x="1379.25" y="470" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-156" value="客户端发送加密消息到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1373" y="520" width="205" height="25" as="geometry" />
+          <mxGeometry x="1382.25" y="520" width="205" height="25" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1363" y="594" width="218" height="29" as="geometry" />
@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-173" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户输入消息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="380" width="104" height="30" as="geometry" />
+          <mxGeometry x="1429.75" y="420" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
