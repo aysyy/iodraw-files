@@ -192,7 +192,7 @@
           <mxGeometry x="1510.75" y="120" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-147" value="上传RSA公钥到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="210" width="127" height="30" as="geometry" />
+          <mxGeometry x="1416.75" y="210" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-148" value="本地存储RSA私钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="210" width="130" height="30" as="geometry" />
@@ -249,6 +249,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="180" as="sourcePoint" />
             <mxPoint x="1050" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-167" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="180" as="sourcePoint" />
+            <mxPoint x="870" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
