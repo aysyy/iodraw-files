@@ -336,7 +336,7 @@
             <mxPoint x="930" y="330" as="sourcePoint" />
             <mxPoint x="980" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1310" y="325" />
+              <mxPoint x="1312" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -344,6 +344,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="470" as="sourcePoint" />
             <mxPoint x="1610" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1653" y="245" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-184" value="客户端发送加密消息到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
