@@ -20,7 +20,7 @@
           <mxGeometry x="887.25" y="180" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-72" value="服务端用RSA公钥加密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="845.5" y="230" width="226" height="67" as="geometry" />
+          <mxGeometry x="845.5" y="230" width="174.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-73" value="服务端发送加密AES密钥到客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="816" y="518" width="216" height="67" as="geometry" />
@@ -135,6 +135,184 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="260" as="sourcePoint" />
             <mxPoint x="1160" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-102" value="消息处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="811" y="2564" width="316" height="908" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-103" value="服务端密钥操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2043" width="327" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-104" value="客户端密钥操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1754" width="525" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-105" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="1670" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-106" value="客户端生成RSA密钥对" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="980" y="1779" width="186" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-107" value="上传RSA公钥到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="865" y="1919" width="185" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-108" value="本地存储RSA私钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1101" y="1919" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-109" value="服务端生成AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="874" y="2068" width="168" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-110" value="服务端用RSA公钥加密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="845" y="2167" width="226" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-111" value="服务端发送加密AES密钥到客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="850" y="2306" width="216" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-112" value="客户端用RSA私钥解密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="845" y="2448" width="227" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-113" value="客户端存储AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="874" y="2589" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-114" value="用户输入消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="895" y="2688" width="127" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-115" value="客户端用AES密钥加密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="849" y="2787" width="218" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-116" value="客户端发送加密消息到服务端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="846" y="2909" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-117" value="服务端存储加密消息到数据库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="847" y="3026" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-118" value="服务端转发加密消息到接收者客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="847" y="3143" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-119" value="接收者客户端用AES密钥解密消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="850" y="3282" width="217" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-120" value="接收者客户端显示原始消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="847" y="3399" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-121" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="929" y="3523" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-105" target="trw70KUKvf95RieFYTFM-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-106" target="trw70KUKvf95RieFYTFM-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="958" y="1873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.27;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-106" target="trw70KUKvf95RieFYTFM-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1078" y="1873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-107" target="trw70KUKvf95RieFYTFM-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-109" target="trw70KUKvf95RieFYTFM-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-110" target="trw70KUKvf95RieFYTFM-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="894" y="2270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-111" target="trw70KUKvf95RieFYTFM-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-112" target="trw70KUKvf95RieFYTFM-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-113" target="trw70KUKvf95RieFYTFM-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-114" target="trw70KUKvf95RieFYTFM-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.37;entryY=0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-115" target="trw70KUKvf95RieFYTFM-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="2873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-116" target="trw70KUKvf95RieFYTFM-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-117" target="trw70KUKvf95RieFYTFM-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=0.99;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-118" target="trw70KUKvf95RieFYTFM-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="3246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-119" target="trw70KUKvf95RieFYTFM-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-120" target="trw70KUKvf95RieFYTFM-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-138" value="用于后续接收服务端加密的 AES 密钥" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.64;entryY=-0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-106" target="trw70KUKvf95RieFYTFM-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1237" y="1873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-139" value="确保 AES 密钥传输安全" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.61;exitY=0.99;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-110" target="trw70KUKvf95RieFYTFM-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="2270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-140" value="提高消息传输安全性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=1.01;entryX=0.6;entryY=0.01;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-115" target="trw70KUKvf95RieFYTFM-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1006" y="2873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-141" value="完成消息传递" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.63;exitY=0.99;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-118" target="trw70KUKvf95RieFYTFM-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1018" y="3246" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
