@@ -363,7 +363,7 @@
         <mxCell id="trw70KUKvf95RieFYTFM-158" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="671" width="205" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-159" value="接收者客户端显示原始消息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="trw70KUKvf95RieFYTFM-159" value="接收者客户端显示原始消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="720" width="197" height="29" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-160" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
@@ -372,7 +372,7 @@
         <mxCell id="trw70KUKvf95RieFYTFM-161" value="本地存储AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="450" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="trw70KUKvf95RieFYTFM-162" value="服务端存储加密消息到数据库" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="615.5" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
