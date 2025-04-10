@@ -209,9 +209,6 @@
         <mxCell id="trw70KUKvf95RieFYTFM-152" value="客户端用RSA私钥解密AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1387.75" y="370" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-154" value="用户输入消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1423.75" y="420" width="126.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-155" value="客户端用AES密钥加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1379.25" y="470" width="211" height="30" as="geometry" />
         </mxCell>
@@ -275,11 +272,8 @@
             <mxPoint x="880" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-172" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="trw70KUKvf95RieFYTFM-173" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="trw70KUKvf95RieFYTFM-173" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户输入消息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="380" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
