@@ -8,13 +8,13 @@
           <mxGeometry x="370" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-2" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="365" y="140" width="70" height="20" as="geometry" />
+          <mxGeometry x="365" y="100" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-4" value="服务器验证账号密码（查询数据库）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="235" y="230" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-5" value="客户端发送登录请求到服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="315" y="180" width="170" height="20" as="geometry" />
+          <mxGeometry x="315" y="150" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUwjy8ryEDjYzgLUAmKn-6" value="&lt;div&gt;服务器生成 JWT 令牌&lt;span style=&quot;background-color: initial;&quot;&gt;将 JWT 令牌返回给客户端并&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;存储&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="126" y="310" width="548" height="20" as="geometry" />
