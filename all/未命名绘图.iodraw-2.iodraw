@@ -337,7 +337,7 @@
           <mxGeometry x="1200" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-149" value="服务端用RSA公钥加密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="851.25" y="250" width="234.5" height="30" as="geometry" />
+          <mxGeometry x="1484" y="280" width="234.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
