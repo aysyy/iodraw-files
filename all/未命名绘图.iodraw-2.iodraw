@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-173" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户输入消息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1431.88" y="380" width="104" height="30" as="geometry" />
+          <mxGeometry x="1431.88" y="390" width="108.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-174" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-149" target="trw70KUKvf95RieFYTFM-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
