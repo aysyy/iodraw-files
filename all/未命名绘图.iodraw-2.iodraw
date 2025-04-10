@@ -17,10 +17,10 @@
           <mxGeometry x="1050" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-71" value="服务端生成AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="900" y="180" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="887.25" y="180" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-72" value="服务端用RSA公钥加密AES密钥" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="811" y="401" width="226" height="67" as="geometry" />
+          <mxGeometry x="845.5" y="230" width="226" height="67" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-73" value="服务端发送加密AES密钥到客户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="816" y="518" width="216" height="67" as="geometry" />
