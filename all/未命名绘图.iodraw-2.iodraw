@@ -213,7 +213,7 @@
           <mxGeometry x="1404.88" y="410" width="155.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-156" value="客户端发送加密消息到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1382.41" y="450" width="200.06" height="15" as="geometry" />
+          <mxGeometry x="1382.41" y="450" width="167.59" height="15" as="geometry" />
         </mxCell>
         <mxCell id="trw70KUKvf95RieFYTFM-157" value="服务端转发加密消息到接收者客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1363" y="594" width="218" height="29" as="geometry" />
@@ -328,6 +328,9 @@
             <mxPoint x="990" y="470" as="sourcePoint" />
             <mxPoint x="1610" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="trw70KUKvf95RieFYTFM-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.91;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="trw70KUKvf95RieFYTFM-156" target="trw70KUKvf95RieFYTFM-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
