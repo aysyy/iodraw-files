@@ -7,7 +7,7 @@
         <mxCell id="COGMIEDKKYv4OYD1EAd0-16" value="客户端用AES密钥加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="300" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="COGMIEDKKYv4OYD1EAd0-17" value="从服务端加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="COGMIEDKKYv4OYD1EAd0-17" value="获取服务端加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-18" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
