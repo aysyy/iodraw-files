@@ -8,7 +8,7 @@
           <mxGeometry x="1115" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-17" value="服务端转发加密消息到接收者客户端" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="450" width="220" height="30" as="geometry" />
+          <mxGeometry x="1350" y="390" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-18" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="500" width="200" height="30" as="geometry" />
