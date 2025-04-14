@@ -8,7 +8,7 @@
           <mxGeometry x="1115" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-17" value="获取服务端加密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="390" width="120" height="30" as="geometry" />
+          <mxGeometry x="1400" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-18" value="接收者客户端用AES密钥解密消息" style="rounded=0;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="500" width="200" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-39" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="320" width="50" height="30" as="geometry" />
+          <mxGeometry x="1435" y="350" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COGMIEDKKYv4OYD1EAd0-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="COGMIEDKKYv4OYD1EAd0-17" target="COGMIEDKKYv4OYD1EAd0-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
