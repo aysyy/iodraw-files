@@ -46,7 +46,7 @@
             <mxPoint x="1160" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="COGMIEDKKYv4OYD1EAd0-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="COGMIEDKKYv4OYD1EAd0-21" target="COGMIEDKKYv4OYD1EAd0-17">
+        <mxCell id="COGMIEDKKYv4OYD1EAd0-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="COGMIEDKKYv4OYD1EAd0-21" target="COGMIEDKKYv4OYD1EAd0-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1150" y="600" as="sourcePoint" />
             <mxPoint x="1200" y="550" as="targetPoint" />
@@ -87,6 +87,12 @@
             <mxPoint x="940" y="470" as="sourcePoint" />
             <mxPoint x="990" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="COGMIEDKKYv4OYD1EAd0-37" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COGMIEDKKYv4OYD1EAd0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="COGMIEDKKYv4OYD1EAd0-37" target="COGMIEDKKYv4OYD1EAd0-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
