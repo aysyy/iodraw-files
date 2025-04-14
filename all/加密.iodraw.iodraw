@@ -79,8 +79,8 @@
             <mxPoint x="1090" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="COGMIEDKKYv4OYD1EAd0-33" value="" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="413" width="50" height="40" as="geometry" />
+        <mxCell id="COGMIEDKKYv4OYD1EAd0-34" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;从localStorage中获取AES密钥&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="455" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
