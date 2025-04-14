@@ -16,7 +16,7 @@
         <mxCell id="Y8l6NF05hZbkbU2WhBNE-4" value="上传RSA公钥到服务端" style="rounded=0;arcSize=20;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1409" y="190" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y8l6NF05hZbkbU2WhBNE-5" value="本地存储RSA私钥" style="rounded=0;arcSize=20;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="Y8l6NF05hZbkbU2WhBNE-5" value="localStorage本地存储RSA私钥" style="rounded=0;arcSize=20;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1252.07" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8l6NF05hZbkbU2WhBNE-6" value="服务端用RSA公钥加密AES密钥" style="rounded=0;arcSize=20;strokeWidth=1;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pyk4Ro82CjLcwl4ZtHX7-2" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="555" width="50" height="30" as="geometry" />
+          <mxGeometry x="1454" y="430" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
