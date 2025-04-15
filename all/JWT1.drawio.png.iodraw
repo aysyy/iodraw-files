@@ -121,7 +121,7 @@
           <mxGeometry x="241.25" y="390" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;服务器根据 JWT 载荷中的用户信息进行权限控制&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;处理请求并返回响应（服务器）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="186.75" y="500" width="424" height="20" as="geometry" />
+          <mxGeometry x="177.13" y="500" width="443.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="93eyLls7oPN5yVUYKk1G-23" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="408.75" y="470" width="70" height="30" as="geometry" />
