@@ -13,7 +13,7 @@
         <mxCell id="yzbpAEXLlsRjJmNU4Gwz-3" value="查看系统公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzbpAEXLlsRjJmNU4Gwz-4" value="查看系统公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yzbpAEXLlsRjJmNU4Gwz-4" value="进行单人聊天" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
