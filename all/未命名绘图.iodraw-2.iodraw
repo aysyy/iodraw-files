@@ -74,7 +74,7 @@
           <mxGeometry x="470" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0EQh8wAplnB7gXLmL2gJ-17" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0EQh8wAplnB7gXLmL2gJ-18" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="70" width="60" height="30" as="geometry" />
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="0EQh8wAplnB7gXLmL2gJ-30" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0EQh8wAplnB7gXLmL2gJ-32" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
