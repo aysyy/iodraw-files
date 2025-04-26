@@ -43,10 +43,10 @@
             <mxPoint x="120" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzbpAEXLlsRjJmNU4Gwz-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yzbpAEXLlsRjJmNU4Gwz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="yzbpAEXLlsRjJmNU4Gwz-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="210" as="sourcePoint" />
-            <mxPoint x="400" y="160" as="targetPoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
