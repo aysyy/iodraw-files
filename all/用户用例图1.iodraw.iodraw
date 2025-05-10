@@ -73,6 +73,9 @@
         <mxCell id="yzbpAEXLlsRjJmNU4Gwz-17" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DfRhnkZdKNofn4-fhUtv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yzbpAEXLlsRjJmNU4Gwz-18" target="yzbpAEXLlsRjJmNU4Gwz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yzbpAEXLlsRjJmNU4Gwz-18" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="380" width="60" height="30" as="geometry" />
         </mxCell>
@@ -91,11 +94,20 @@
         <mxCell id="DfRhnkZdKNofn4-fhUtv-4" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DfRhnkZdKNofn4-fhUtv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DfRhnkZdKNofn4-fhUtv-5" target="yzbpAEXLlsRjJmNU4Gwz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DfRhnkZdKNofn4-fhUtv-5" value="发表情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DfRhnkZdKNofn4-fhUtv-6" value="发文件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfRhnkZdKNofn4-fhUtv-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzbpAEXLlsRjJmNU4Gwz-4" target="DfRhnkZdKNofn4-fhUtv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="435" as="sourcePoint" />
+            <mxPoint x="400" y="395" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
